@@ -1,1 +1,14 @@
-# -touch-Preguntas--semana-2.txt
+
+Pregunta 1:
+Respuesta: B - Ejecutar comandos para interactuar con el sistema
+
+Pregunta 2:
+Respuesta: B - Muestra la ubicación actual dentro del sistema de carpetas
+
+Pregunta 3:
+Respuesta: C - ls
+
+Pregunta 4:
+Respuesta: B - mkdir
+
+
